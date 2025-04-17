@@ -1,5 +1,5 @@
 # pocket-operator-template
- board template that mimics tennage engineering's pocket operator form factor
+ board template that mimics teenage engineering's pocket operator form factor
 
 
 ## Board outline 
